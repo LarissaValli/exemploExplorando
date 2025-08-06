@@ -1,11 +1,5 @@
 ﻿using exemploExplorando.Models;
 
-string numero1 = "10";
-string numero2 = "20";
-
-string resultado = numero1 + numero2;
-
-Console.WriteLine(resultado);
 
 
 
@@ -30,21 +24,12 @@ Console.WriteLine(resultado);
 
 
 
+// int numero1 = 10;
+// string numero2 = "20";
 
+// string resultado = numero1 + numero2;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+// Console.WriteLine(resultado);
 
 
 
